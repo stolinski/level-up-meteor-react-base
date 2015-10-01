@@ -8,6 +8,16 @@ A base for starting Meteor projects using React as a front-end framework instead
 
 In time, you will know. Well.. I just haven't completed this section of the readme yet, but in the meantime you can paw over the packages file in the .meteor dir to get a good idea what this comes with. 
 
+## How do I use it?
+
+```
+    git clone git@github.com:stolinski/level-up-meteor-react-base.git
+    cd level-up-meteor-react-base
+    meteor
+```
+or change the name of the main dir after cloning, it's your choice ( ^-^)_旦””, whatever.
+
+
 ## More Questions.
 
 #### Q - Why React + Meteor?
