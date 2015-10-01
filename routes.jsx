@@ -1,5 +1,5 @@
 // Subscriptions
-FlowRouter.subscriptions = function() {
+FlowRouter.subscriptions = () => {
   // this.register('Products', Meteor.subscribe('products'));
 };
 

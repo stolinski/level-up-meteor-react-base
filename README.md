@@ -29,6 +29,9 @@ A - Sure! Although it's nowhere near complete. If you download and start up, it 
 #### Q - Do I have to use Stylus?
 A - Nope! Although it's awesome and I've included some pre-made goodies in there.
 
+#### I hate the choices you made.
+A - It's cool, we can still be friends.
+
 ## Improvements
 
 I can assure you that many are coming, but if you want to let me know of something that you think is terrible, please leave a message in the issue queue and I'll let you know if I'm aware of the issue or not.
